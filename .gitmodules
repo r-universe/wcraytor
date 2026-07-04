@@ -1,8 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/wcraytor/wcraytor.r-universe.dev
 	branch = HEAD
-[submodule "earthUI"]
-	path = earthUI
-	url = https://github.com/wcraytor/earthui
-	subdir = pkg
+[submodule "vProlog"]
+	path = vProlog
+	url = https://github.com/wcraytor/vProlog
